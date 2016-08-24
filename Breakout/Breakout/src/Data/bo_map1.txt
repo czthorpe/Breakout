@@ -1,0 +1,12 @@
+! Wrought in the depths of time by Colin Thorpe
+!
+! columns:
+! first is type of block
+! second is # of rows
+! third is # of columns
+!
+$ 108 14
+~ 1 2 14
+~ 2 2 14
+~ 3 2 14 
+~ 4 2 14
